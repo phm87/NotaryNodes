@@ -23,7 +23,7 @@ Hardware will be chosen according to requirements to run the Notary Node setup w
 Server location will be in Sydney, Australia. I'd like to discuss and eventually test ideas to enhance SH region connectivity such as having another server in Asian region to run other nodes (same AC, different wallets) and use a fast private network between the NN server in Sydney and Asian region.
 
 
-## Community support  :
+## Community support :
 
 - 20% of KMD earnings will be given to KMDLabs
 - 20% of KMD earnings will be given to CHIPS
