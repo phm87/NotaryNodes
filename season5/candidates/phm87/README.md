@@ -2,9 +2,9 @@
 
 RFmvveVYVRPo8v85J5u3Yd3PgrzSrHZP4S
 
-I'm candidate to be Notary Node during the 2021-2022 season in order to continue to notarize, move to a better server and provider, continue to develop my **current projects** and launch/support **new projects** !
+I'm candidate to be Notary Node during the 2021-2022 season in order to continue to notarize, move to a better server and provider, continue to develop my **current projects** and launch/support **new projects** ! In brief, during last season, I fixed KMDLabs notarization network, I finished to integrate adaptivePoW into Chips, I adapted komodo code to allow active user rewards on smartchains with -ac_aur and I raised awareness about dPoW and komodo tech outside of kommodo discord. For the next season, my projects are a multicurrency discord faucet bot (using AtomicDEX-API in the back-end), cross-chain development (aidrops/swaps between chains), contribute to AtomicDEX (add coins & ERC20 with promotion using the faucet discord bot). More details here below.
 
-Please review and comment the past and future projects listed here below.
+Please feel free to review and comment projects and ideas.
 
 ## Who am I ?
 
